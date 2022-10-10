@@ -14,6 +14,7 @@ public class Task_3 {
     public static final char DOT_O = 'O';
 
 
+
     public static Scanner sc = new Scanner(System.in);
     public static Random rand = new Random();
 
