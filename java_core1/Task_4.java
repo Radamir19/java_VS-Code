@@ -48,6 +48,7 @@ public class Task_4
                 " Employee salary: " + salary;
         System.out.println(info);
         return info;
+
     }
 
 }
